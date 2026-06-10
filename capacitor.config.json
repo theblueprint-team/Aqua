@@ -1,5 +1,6 @@
 {
-  "appId": "com.example.app",
-  "appName": "acqua",
-  "webDir": "www"
+  "appId": "com.aquatic.app",
+  "appName": "Aquatic App",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
